@@ -2,7 +2,7 @@
 
 A curated list of tools, resources, and community projects related to the **Irium Proof-of-Work blockchain**.
 
-Irium is an independent SHA-256d PoW blockchain built in Rust.
+Irium (IRM) is a mineable, settlement-first blockchain build in Rust for escrow, agreements & proof-based commerce. Trust-minimized outcomes, not just payments.
 
 ---
 
