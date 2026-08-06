@@ -1,21 +1,21 @@
 # Awesome Irium
 
-A curated list of tools, resources, and community projects related to the **Irium Proof-of-Work blockchain**.
+A curated list of tools, resources, and community projects related to the **Irium PoAW-X**.
 
-Irium (IRM) is a mineable, settlement-first blockchain build in Rust for escrow, agreements & proof-based commerce. Trust-minimized outcomes, not just payments.
+Irium (IRM) is a Rust-based blockchain powered by SHA-256d PoAW-X consensus, VRF proposer selection, hardware-neutral mining, and decentralized finality.
 
 ---
 
 ## Official Resources
 
 Website
-https://iriumlabs.org
+https://irium.org
 
 Main Repository
 https://github.com/iriumlabs/irium
 
 Block Explorer
-https://www.iriumlabs.org/explorer
+https://www.irium.org/explorer
 
 Telegram
 https://t.me/iriumlabs
@@ -31,7 +31,7 @@ Official Miner
 https://github.com/iriumlabs/irium
 
 Public Stratum Pool
-stratum+tcp://pool.iriumlabs.org:3333
+stratum+tcp://pool.irium.org:3333
 
 ---
 
